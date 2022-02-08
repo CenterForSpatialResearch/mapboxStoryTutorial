@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "timestamp": "2022-02-08T15:02:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/419360013",
+        "alt_name": "TFulton Correctional Facilitys",
+        "delivery": "yes",
+        "drink:beer": "yes",
+        "name": "Fulton Correctional Facility",
+        "phone": "+1-718-638-5454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		  -73.90079100437559,		
+		  40.83696720523908
+        ]
+      },
+      "id": "node/419360013"
+    }
+  ]
+}
